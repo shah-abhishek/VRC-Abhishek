@@ -1,0 +1,550 @@
+{
+    "TDR":[
+        {
+            "4 week": "01-Jan-21-31-Jan-21",
+            "TDIR": "0.973073899",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.30738988"
+        },
+        {
+            "4 week": "11-Jan-21-07-Feb-21",
+            "TDIR": "0.969068367",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.90683674"
+        },
+        {
+            "4 week": "18-Jan-21-14-Feb-21",
+            "TDIR": "0.963748988",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.37489882"
+        },
+        {
+            "4 week": "25-Jan-21-21-Feb-21",
+            "TDIR": "0.964593908",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.45939078"
+        },
+        {
+            "4 week": "01-Feb-21-28-Feb-21",
+            "TDIR": "0.966269354",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.62693541"
+        },
+        {
+            "4 week": "08-Feb-21-07-Mar-21",
+            "TDIR": "0.972674112",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.2674112"
+        },
+        {
+            "4 week": "15-Feb-21-14-Mar-21",
+            "TDIR": "0.97669616",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.66961599"
+        },
+        {
+            "4 week": "22-Feb-21-21-Mar-21",
+            "TDIR": "0.978646839",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.86468386"
+        },
+        {
+            "4 week": "01-Mar-21-31-Mar-21",
+            "TDIR": "0.974543716",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.45437159"
+        },
+        {
+            "4 week": "08-Mar-21-04-Apr-21",
+            "TDIR": "0.971569013",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.15690128"
+        },
+        {
+            "4 week": "15-Mar-21-11-Apr-21",
+            "TDIR": "0.973765384",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.37653841"
+        },
+        {
+            "4 week": "22-Mar-21-18-Apr-21",
+            "TDIR": "0.972306572",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.23065716"
+        },
+        {
+            "4 week": "01-Apr-21-25-Apr-21",
+            "TDIR": "0.975818628",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.58186276"
+        },
+        {
+            "4 week": "05-Apr-21-30-Apr-21",
+            "TDIR": "0.98105735",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.10573502"
+        },
+        {
+            "4 week": "12-Apr-21-09-May-21",
+            "TDIR": "0.98045899",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.04589902"
+        },
+        {
+            "4 week": "19-Apr-21-16-May-21",
+            "TDIR": "0.985064385",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.50643848"
+        },
+        {
+            "4 week": "26-Apr-21-23-May-21",
+            "TDIR": "0.986757471",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.67574713"
+        },
+        {
+            "4 week": "01-May-21-31-May-21",
+            "TDIR": "0.983673749",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.36737495"
+        },
+        {
+            "4 week": "10-May-21-06-Jun-21",
+            "TDIR": "0.984783853",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.47838526"
+        },
+        {
+            "4 week": "17-May-21-13-Jun-21",
+            "TDIR": "0.980384502",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.0384502"
+        },
+        {
+            "4 week": "24-May-21-20-Jun-21",
+            "TDIR": "0.974523495",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.45234953"
+        },
+        {
+            "4 week": "01-Jun-21-30-Jun-21",
+            "TDIR": "0.975301552",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.53015518"
+        },
+        {
+            "4 week": "07-Jun-21-04-Jul-21",
+            "TDIR": "0.967002431",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.70024306"
+        },
+        {
+            "4 week": "14-Jun-21-11-Jul-21",
+            "TDIR": "0.969763883",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.97638833"
+        },
+        {
+            "4 week": "21-Jun-21-18-Jul-21",
+            "TDIR": "0.972057578",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.20575775"
+        },
+        {
+            "4 week": "01-Jul-21-25-Jul-21",
+            "TDIR": "0.968909772",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.8909772"
+        },
+        {
+            "4 week": "05-Jul-21-31-Jul-21",
+            "TDIR": "0.977222078",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.72220784"
+        },
+        {
+            "4 week": "12-Jul-21-08-Aug-21",
+            "TDIR": "0.97805847",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.80584701"
+        },
+        {
+            "4 week": "19-Jul-21-15-Aug-21",
+            "TDIR": "0.977756368",
+            "Completion Rate": "0.99916388",
+            "Target": "98.2",
+            "TTDDIIRR": "97.77563682"
+        },
+        {
+            "4 week": "26-Jul-21-22-Aug-21",
+            "TDIR": "0.978692838",
+            "Completion Rate": "0.99916388",
+            "Target": "98.2",
+            "TTDDIIRR": "97.86928381"
+        },
+        {
+            "4 week": "01-Aug-21-31-Aug-21",
+            "TDIR": "0.974418515",
+            "Completion Rate": "0.99916388",
+            "Target": "98.2",
+            "TTDDIIRR": "97.44185145"
+        },
+        {
+            "4 week": "09-Aug-21-05-Sep-21",
+            "TDIR": "0.973754344",
+            "Completion Rate": "0.997888369",
+            "Target": "98.2",
+            "TTDDIIRR": "97.37543435"
+        },
+        {
+            "4 week": "16-Aug-21-12-Sep-21",
+            "TDIR": "0.974102727",
+            "Completion Rate": "0.99872449",
+            "Target": "98.2",
+            "TTDDIIRR": "97.4102727"
+        },
+        {
+            "4 week": "23-Aug-21-19-Sep-21",
+            "TDIR": "0.975844627",
+            "Completion Rate": "0.997841098",
+            "Target": "98.2",
+            "TTDDIIRR": "97.58446272"
+        },
+        {
+            "4 week": "01-Sep-21-26-Sep-21",
+            "TDIR": "0.972465659",
+            "Completion Rate": "0.995143256",
+            "Target": "98.2",
+            "TTDDIIRR": "97.24656592"
+        },
+        {
+            "4 week": "06-Sep-21-30-Sep-21",
+            "TDIR": "0.972430714",
+            "Completion Rate": "0.996418766",
+            "Target": "98.2",
+            "TTDDIIRR": "97.24307137"
+        },
+        {
+            "4 week": "13-Sep-21-10-Oct-21",
+            "TDIR": "0.970844464",
+            "Completion Rate": "0.996418766",
+            "Target": "98.2",
+            "TTDDIIRR": "97.08444642"
+        },
+        {
+            "4 week": "20-Sep-21-17-Oct-21",
+            "TDIR": "0.968898441",
+            "Completion Rate": "0.996396361",
+            "Target": "98.2",
+            "TTDDIIRR": "96.88984407"
+        },
+        {
+            "4 week": "27-Sep-21-24-Oct-21",
+            "TDIR": "0.97407183",
+            "Completion Rate": "0.999094203",
+            "Target": "98.2",
+            "TTDDIIRR": "97.40718301"
+        },
+        {
+            "4 week": "01-Oct-21-31-Oct-21",
+            "TDIR": "0.97171818",
+            "Completion Rate": "0.999094203",
+            "Target": "98.2",
+            "TTDDIIRR": "97.17181797"
+        },
+        {
+            "4 week": "11-Oct-21-07-Nov-21",
+            "TDIR": "0.969006711",
+            "Completion Rate": "0.999094203",
+            "Target": "98.2",
+            "TTDDIIRR": "96.90067111"
+        },
+        {
+            "4 week": "18-Oct-21-14-Nov-21",
+            "TDIR": "0.965800126",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.58001262"
+        },
+        {
+            "4 week": "25-Oct-21-21-Nov-21",
+            "TDIR": "0.968710523",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "96.87105225"
+        },
+        {
+            "4 week": "01-Nov-21-30-Nov-21",
+            "TDIR": "0.971234272",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "97.12342718"
+        },
+        {
+            "4 week": "08-Nov-21-05-Dec-21",
+            "TDIR": "0.977264275",
+            "Completion Rate": "0.998847926",
+            "Target": "98.2",
+            "TTDDIIRR": "97.72642748"
+        },
+        {
+            "4 week": "15-Nov-21-12-Dec-21",
+            "TDIR": "0.975812475",
+            "Completion Rate": "0.994596226",
+            "Target": "98.2",
+            "TTDDIIRR": "97.5812padding: ;745"
+        },
+        {
+            "4 week": "22-Nov-21-19-Dec-21",
+            "TDIR": "0.972250463",
+            "Completion Rate": "0.994596226",
+            "Target": "98.2",
+            "TTDDIIRR": "97.22504633"
+        },
+        {
+            "4 week": "01-Dec-21-26-Dec-21",
+            "TDIR": "0.969828188",
+            "Completion Rate": "0.990901644",
+            "Target": "98.2",
+            "TTDDIIRR": "96.98281881"
+        },
+        {
+            "4 week": "06-Dec-21-31-Dec-21",
+            "TDIR": "0.972982995",
+            "Completion Rate": "0.992053718",
+            "Target": "98.2",
+            "TTDDIIRR": "97.29829947"
+        },
+        {
+            "4 week": "13-Dec-21-09-Jan-22",
+            "TDIR": "0.975483368",
+            "Completion Rate": "0.996305419",
+            "Target": "98.2",
+            "TTDDIIRR": "97.54833679"
+        },
+        {
+            "4 week": "20-Dec-21-16-Jan-22",
+            "TDIR": "0.97598373",
+            "Completion Rate": "0.996305419",
+            "Target": "98.2",
+            "TTDDIIRR": "97.59837296"
+        },
+        {
+            "4 week": "27-Dec-21-23-Jan-22",
+            "TDIR": "0.979043888",
+            "Completion Rate": "0.998917749",
+            "Target": "98.2",
+            "TTDDIIRR": "97.90438878"
+        },
+        {
+            "4 week": "01-Jan-22-31-Jan-22",
+            "TDIR": "0.97498267",
+            "Completion Rate": "0.998917749",
+            "Target": "98.2",
+            "TTDDIIRR": "97.49826703"
+        },
+        {
+            "4 week": "10-Jan-22-06-Feb-22",
+            "TDIR": "0.981375011",
+            "Completion Rate": "0.998917749",
+            "Target": "98.2",
+            "TTDDIIRR": "98.13750108"
+        },
+        {
+            "4 week": "17-Jan-22-13-Feb-22",
+            "TDIR": "98.2124161",
+            "Completion Rate": "0.998917749",
+            "Target": "98.2",
+            "TTDDIIRR": "98.21241613"
+        },
+        {
+            "4 week": "24-Jan-22-20-Feb-22",
+            "TDIR": "0.98089761",
+            "Completion Rate": "1",
+            "Target": "98.2",
+            "TTDDIIRR": "98.089761"
+        },
+        {
+            "4 week": "01-Feb-22-28-Feb-22",
+            "TDIR": "0.976796931",
+            "Completion Rate": "0.999125874",
+            "Target": "98.2",
+            "TTDDIIRR": "97.67969313"
+        },
+        {
+            "4 week": "07-Feb-22-06-Mar-22",
+            "TDIR": "0.975047075",
+            "Completion Rate": "0.999125874",
+            "Target": "98.2",
+            "TTDDIIRR": "97.50470747"
+        },
+        {
+            "4 week": "14-Feb-22-13-Mar-22",
+            "TDIR": "0.972683189",
+            "Completion Rate": "0.998071022",
+            "Target": "98.2",
+            "TTDDIIRR": "97.26831888"
+        },
+        {
+            "4 week": "21-Feb-22-20-Mar-22",
+            "TDIR": "0.972633363",
+            "Completion Rate": "0.998071022",
+            "Target": "98.2",
+            "TTDDIIRR": "97.26333632"
+        },
+        {
+            "4 week": "01-Mar-22-27-Mar-22",
+            "TDIR": "0.977764443",
+            "Completion Rate": "0.998945148",
+            "Target": "98.2",
+            "TTDDIIRR": "97.77644429"
+        },
+        {
+            "4 week": "07-Mar-22-31-Mar-22",
+            "TDIR": "0.97477441",
+            "Completion Rate": "0.998945148",
+            "Target": "98.2",
+            "TTDDIIRR": "97.47744097"
+        },
+        {
+            "4 week": "14-Mar-22-10-Apr-22",
+            "TDIR": "0.971117366",
+            "Completion Rate": "0.999211356",
+            "Target": "98.2",
+            "TTDDIIRR": "97.11173665"
+        },
+        {
+            "4 week": "21-Mar-22-17-Apr-22",
+            "TDIR": "0.968910248",
+            "Completion Rate": "0.996979214",
+            "Target": "98.2",
+            "TTDDIIRR": "96.89102476"
+        },
+        {
+            "4 week": "28-Mar-22-24-Apr-22",
+            "TDIR": "0.968699717",
+            "Completion Rate": "0.995805505",
+            "Target": "98.2",
+            "TTDDIIRR": "96.86997169"
+        },
+        {
+            "4 week": "01-Apr-22-30-Apr-22",
+            "TDIR": "0.975162995",
+            "Completion Rate": "0.994516845",
+            "Target": "98.2",
+            "TTDDIIRR": "97.51629951"
+        },
+        {
+            "4 week": "11-Apr-22-08-May-22",
+            "TDIR": "0.985231242",
+            "Completion Rate": "0.994332726",
+            "Target": "98.2",
+            "TTDDIIRR": "98.52312419"
+        },
+        {
+            "4 week": "18-Apr-22-15-May-22",
+            "TDIR": "0.984460051",
+            "Completion Rate": "0.995491907",
+            "Target": "98.2",
+            "TTDDIIRR": "98.44600509"
+        },
+        {
+            "4 week": "25-Apr-22-22-May-22",
+            "TDIR": "0.981708078",
+            "Completion Rate": "0.996665616",
+            "Target": "98.2",
+            "TTDDIIRR": "98.17080781"
+        },
+        {
+            "4 week": "01-May-22-31-May-22",
+            "TDIR": "0.975595422",
+            "Completion Rate": "0.996309539",
+            "Target": "98.2",
+            "TTDDIIRR": "97.55954221"
+        },
+        {
+            "4 week": "09-May-22-05-Jun-22",
+            "TDIR": "0.969384277",
+            "Completion Rate": "0.997282302",
+            "Target": "98.2",
+            "TTDDIIRR": "96.93842767"
+        },
+        {
+            "4 week": "16-May-22-12-Jun-22",
+            "TDIR": "0.969703505",
+            "Completion Rate": "0.997322205",
+            "Target": "98.2",
+            "TTDDIIRR": "96.97035048"
+        },
+        {
+            "4 week": "23-May-22-19-Jun-22",
+            "TDIR": "0.970977474",
+            "Completion Rate": "0.996293399",
+            "Target": "98.2",
+            "TTDDIIRR": "97.09774738"
+        },
+        {
+            "4 week": "01-Jun-22-26-Jun-22",
+            "TDIR": "0.964780463",
+            "Completion Rate": "0.99689211",
+            "Target": "98.2",
+            "TTDDIIRR": "96.47804633"
+        },
+        {
+            "4 week": "06-Jun-22-30-Jun-22",
+            "TDIR": "0.964090356",
+            "Completion Rate": "0.99689211",
+            "Target": "98.2",
+            "TTDDIIRR": "96.40903556"
+        },
+        {
+            "4 week": "13-Jun-22-10-Jul-22",
+            "TDIR": "0.962473395",
+            "Completion Rate": "0.995948884",
+            "Target": "98.2",
+            "TTDDIIRR": "96.24733955"
+        },
+        {
+            "4 week": "20-Jun-22-17-Jul-22",
+            "TDIR": "0.959912611",
+            "Completion Rate": "0.99697769",
+            "Target": "98.2",
+            "TTDDIIRR": "95.99126105"
+        },
+        {
+            "4 week": "27-Jun-22-24-Jul-22",
+            "TDIR": "0.965902241",
+            "Completion Rate": "0.996936759",
+            "Target": "98.2",
+            "TTDDIIRR": "96.59022412"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "unscheduled_Removals": [
+        {
+            "months": "202204",
+            "periods": "19"
+        },
+        {
+            "months": "202205",
+            "periods": "5"
+        },
+        {
+            "months": "202206",
+            "periods": "6"
+        }
+    ],
+    "marep": [
+        {
+            "months": "202204",
+            "marep_rate": "5.696",
+            "marep": "54"
+        },
+        {
+            "months": "202205",
+            "marep_rate": "3.110",
+            "marep": "32"
+        },
+        {
+            "months": "202206",
+            "marep_rate": "1.463",
+            "marep": "15"
+        }
+    ],
+    "pirep": [
+        {
+            "months": "202204",
+            "pirep_rate": "1.055",
+            "pirep": "10"
+        },
+        {
+            "months": "202205",
+            "pirep_rate": "1.166",
+            "pirep": "12"
+        },
+        {
+            "months": "202206",
+            "pirep_rate": "0.488",
+            "pirep": "5"
+        }
+    ],
+    "delay": [
+        {
+            "months": "202204",
+            "delay_rate": "0.316",
+            "delay": "3"
+        },
+        {
+            "months": "202205",
+            "delay_rate": "0.196",
+            "delay": "2"
+        },
+        {
+            "months": "202206",
+            "delay_rate": "0.390",
+            "delay": "4"
+        }
+    ],
+    "cancellation": [
+        {
+            "months": "202204",
+            "cancellation_rate": "0.000",
+            "cancellation": "0"
+        },
+        {
+            "months": "202205",
+            "cancellation_rate": "0.000",
+            "cancellation": "0"
+        },
+        {
+            "months": "202206",
+            "cancellation_rate": "0.000",
+            "cancellation": "0"
+        }
+    ],
+    "URR": [
+        {
+            "months": "202204",
+            "removals": "19",
+            "urr_rate": "6.385"
+        },
+        {
+            "months": "202205",
+            "removals": "5",
+            "urr_rate": "1.604"
+        },
+        {
+            "months": "202206",
+            "removals": "6",
+            "urr_rate": "1.914"
+        }
+    ],
+    "chart1": [
+        {
+            "periods": "01-Apr-22-30-Apr-22",
+            "interruption_rate": "2.75",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "11-Apr-22-09-May-22",
+            "interruption_rate": "2.75",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "18-Apr-22-16-May-22",
+            "interruption_rate": "0.00",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "25-Apr-22-23-May-22",
+            "interruption_rate": "0.00",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "01-May-22-31-May-22",
+            "interruption_rate": "2.35",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "10-May-22-05-Jun-22",
+            "interruption_rate": "2.35",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "17-May-22-12-Jun-22",
+            "interruption_rate": "2.35",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "24-May-22-19-Jun-22",
+            "interruption_rate": "4.61",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "01-Jun-22-26-Jun-22",
+            "interruption_rate": "3.46",
+            "cancellation_rate": "0"
+        },
+        {
+            "periods": "06-Jun-22-30-Jun-22",
+            "interruption_rate": "3.46",
+            "cancellation_rate": "0"
+        }
+    ],
+
+    "chart2":[
+        {"months":"202204","pirep_rate":"0.211","pirep":"2"},
+        {"months":"202205","pirep_rate":"0.194","pirep":"2"},
+        {"months":"202206","pirep_rate":"0.293","pirep":"3"}
+        
+    ],
+    "chart3":[
+        {"modes":"FUEL PUMP","total":"7","cnx":"0"},
+        {"modes":"WING PANEL","total":"2","cnx":"0"},
+        {"modes":"FUEL QUANTITY INDICATOR","total":"1","cnx":"1"}
+    ],
+    "chart4":[
+        {"modes":"FUEL PUMP - MESSAGE","total":"4","cnx":"0"},
+        {"modes":"FUEL PUMP - INOP", "total":"3","cnx":"0"}
+    ]
+}
