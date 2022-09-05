@@ -1,0 +1,122 @@
+/* ----------------container -------------*/
+
+.index__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b3b3b3;
+    padding: 8px;
+}
+
+
+/*-------------------left index -------------*/
+
+.index__left {
+    display: flex;
+    align-items: center;
+    margin: 0px;
+}
+
+.airoplane__icon {
+    height: 35px !important;
+    width: 35px !important;
+    margin-top: 0px;
+    color: #494747;
+    margin-left: 20px;
+}
+
+.index__left > h3 {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    color: #494747;
+}
+
+
+/*--------------------right index-------------*/
+
+.index__right {
+    display: flex;
+    align-items: center;
+}
+
+.avatar__icon {
+    height: 40px !important;
+    width: 40px !important;
+    margin-top: 0px;
+}
+
+.index__right > h3 {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    color: #494747;
+    margin-right: 30px;
+}
+
+.c-arrow__icon {
+    height: 40px !important;
+    width: 40px !important;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+
+/*----------------------fleet container-------------*/
+
+.fleet__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e0e0e0;
+    padding: 6px;
+}
+
+
+/*----------------fleet left---------------------*/
+
+
+.fleet__left {
+    display: flex;
+    align-items: center;
+}
+
+.fleet__left > h3 {
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+    color: black;
+    margin-left: 20px;
+}
+
+
+/*----------------------fleet right-------------------*/
+
+.fleet__right {
+    display: flex;
+    align-items: center;
+}
+
+.fleet__right > h3 {
+    font-size: 14px;
+    font-weight: lighter;
+    margin-right: 20px;
+    color: black;
+}
+
+.fleet__year {
+    margin-right: 20px;
+}
+
+.fleet__month {
+    margin-right: 20px;
+}
+
+
+/*------------------------chart contaner------------------------*/
+
+.charts__container {
+    margin-top: 20px;
+}

@@ -1,0 +1,106 @@
+{
+    "unscheduledData": [
+        {
+            "Month": "202204",
+            "UnScheduled_Removals": "19" 
+        },
+        {
+            "Month": "202205",
+            "UnScheduled_Removals": "5" 
+        },
+        {
+            "Month": "202206",
+            "UnScheduled_Removals": "6" 
+        }
+    ],
+
+    "mareprateData": [
+        {
+            "Month": "202204",
+            "MarepRate": "5.696",
+            "Marep": "54"
+        },
+        {
+            "Month": "202205",
+            "MarepRate": "3.110",
+            "Marep": "32"
+        },
+        {
+            "Month": "202206",
+            "MarepRate": "1.463",
+            "Marep": "15"
+        } 
+    ], 
+
+    "PirepRateData": [
+        {
+            "Month": "202204",
+            "PirepRate": "1.055",
+            "Pirep": "10"
+        },
+        {
+            "Month": "202205",
+            "PirepRate": "1.166",
+            "Pirep": "12"
+        },
+        {
+            "Month": "202206",
+            "PirepRate": "0.488",
+            "Pirep": "5"
+        } 
+    ],
+
+    "DelayData": [
+        {
+            "Month": "202204",
+            "DelaypRate": "0.316",
+            "Delay": "3"
+        },
+        {
+            "Month": "202205",
+            "DelayRate": "0.194",
+            "Delay": "2"
+        },
+        {
+            "Month": "202206",
+            "DelayRate": "0.390",
+            "Delay": "4"
+        } 
+    ],
+
+    "CancillationData": [
+        {
+            "Month": "202204",
+            "CancillationRate": "0.000",
+            "Cancillation": "0"
+        },
+        {
+            "Month": "202205",
+            "CancillationRate": "0.000",
+            "Cancillation": "0"
+        },
+        {
+            "Month": "202206",
+            "CancillationRate": "0.000",
+            "Cancillation": "0"
+        } 
+    ],
+
+    "URRdata": [
+        {
+            "Month": "202204",
+            "UrrRate": "6.385",
+            "Urr": "19"
+        },
+        {
+            "Month": "202205",
+            "UrrRate": "1.604",
+            "Urr": "5"
+        },
+        {
+            "Month": "202206",
+            "UrrRate": "1.914",
+            "Urr": "6"
+        } 
+    ]
+}

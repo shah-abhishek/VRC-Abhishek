@@ -1,0 +1,54 @@
+{
+    "CauseAnalysisData": [
+        {
+            "ATA_SYS_ID_NAME": "32-LANDING GEAR",
+            "DELAYS": "8",
+            "CANCELLATIONS": "2"
+        },
+        {
+            "ATA_SYS_ID_NAME": "28-FUEL",
+            "DELAYS": "9",
+            "CANCELLATIONS": "0"
+        },
+        {
+            "ATA_SYS_ID_NAME": "34-NAVIGATION",
+            "DELAYS": "8",
+            "CANCELLATIONS": "1"
+        },
+        {
+            "ATA_SYS_ID_NAME": "36-PNEUMATIC SYSTEMS",
+            "DELAYS": "6",
+            "CANCELLATIONS": "0"
+        },
+        {
+            "ATA_SYS_ID_NAME": "21-AIR CONDITIONS",
+            "DELAYS": "6",
+            "CANCELLATIONS": "0"
+        },
+        {
+            "ATA_SYS_ID_NAME": "26-FIRE OPERATIONS",
+            "DELAYS": "5",
+            "CANCELLATIONS": "1"
+        },
+        {
+            "ATA_SYS_ID_NAME": "49-AIRBORNE AUXILIARY PWR-GENRL",
+            "DELAYS": "5",
+            "CANCELLATIONS": "0"
+        },
+        {
+            "ATA_SYS_ID_NAME": "27-FLIGHT CONTROLS",
+            "DELAYS": "3",
+            "CANCELLATIONS": "1"
+        },
+        {
+            "ATA_SYS_ID_NAME": "29-HYDRAULIC SYSTEM",
+            "DELAYS": "2",
+            "CANCELLATIONS": "2"
+        },
+        {
+            "ATA_SYS_ID_NAME": "22-AUTO FLIGHT",
+            "DELAYS": "3",
+            "CANCELLATIONS": "1"
+        }
+    ]
+}
